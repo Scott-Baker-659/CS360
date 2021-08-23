@@ -15,7 +15,7 @@ How did you test to ensure your code was functional?
 
 I would constantly test the application to see if it would function properly after making any changes to the code/application. This was very important because it showed me when I included code that caused the application to malfunction/crash. I could then quickly figure out where the issue was and hopefully resolve it.
 
-Where did y9ou have to innovate to overcome a challenge?
+Where did you have to innovate to overcome a challenge?
 
 I would not call it innovating as much as consulting stackoverflow and youtube. These two sources, as well as github itself, proved to be very valuable tools that helped me to figure out/establish some level of functionality for the application.
 
